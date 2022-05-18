@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMADABDULLOH%20KOMILOV%20&desc=.NET%20DEVELOPER%20🙂&animation=fadeIn&fontSize=20&fontAlign=75&fontAlignY=38&descAlign=85&color=d0b0ff)
+
+
 ### Hi there 👋
 
 <!--
@@ -5,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+# 🔭 I’m currently working on UZINFOCOM
+# 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
